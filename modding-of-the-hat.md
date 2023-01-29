@@ -40,7 +40,7 @@ MODDING
 - King Of The Hat, as with many other Unity Games keeps its assets in a .assets file. This means that you cannot directly access the .png files that it references for these assets. 
 ```
 
-<img align="left" src="file:///C:/Users/lukas/AppData/Local/Temp/msohtmlclip1/01/clip_image004.gif" alt="img" style="zoom:200%;" />
+<img align="left" src="https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image004.gif" alt="img" style="zoom:200%;" />
 
 ```
 - Fortunately, through the power of third party software, we are able to extract those images.
@@ -68,9 +68,9 @@ Install From Google Drive:
 ```
 
 
-<img align="left" src="file:///C:/Users/lukas/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif" alt="img" style="zoom:200%;" />
+<img align="left" src="https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image006.gif" alt="img" style="zoom:200%;" />
 
-<img align="left" src="file:///C:/Users/lukas/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif" alt="img" style="zoom:200%;" />
+<img align="left" src="https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image008.gif" alt="img" style="zoom:200%;" />
 
 
 
@@ -81,7 +81,7 @@ Install From Google Drive:
 - then click on the download button in the top right corner.
 ```
 
-![img align="left"](file:///C:/Users/lukas/AppData/Local/Temp/msohtmlclip1/01/clip_image010.gif) 
+![img align="left"](https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image010.gif) 
 
 ```
 Following a successful installation, extract the folder inside to a safe but *easily accessible* location. 
@@ -102,7 +102,7 @@ Alright, so now that you’ve downloaded UABE, it’s time to get modding!
 To start UABE, simply run AssetBundleExtractor.exe from inside its folder. 
 ```
 
-<img align="left" src="file:///C:/Users/lukas/AppData/Local/Temp/msohtmlclip1/01/clip_image012.gif" alt="img" style="zoom:200%;" />
+<img align="left" src="https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image012.gif" alt="img" style="zoom:200%;" />
 
 **Note**: as stated before, running the .exe from outside of it’s local folder will cause problems) [*FAQs and Other Problems*]
 
@@ -110,7 +110,7 @@ To start UABE, simply run AssetBundleExtractor.exe from inside its folder.
 If done successfully, a window should pop up that looks like this:
 ```
 
-<img align="left" src="file:///C:/Users/lukas/AppData/Local/Temp/msohtmlclip1/01/clip_image014.gif" alt="img" style="zoom:200%;" />
+<img align="left" src="https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image014.gif" alt="img" style="zoom:200%;" />
 
 _Created by:_
 **POOPATRON**
