@@ -10,7 +10,7 @@ MODDING
 
 ### Creating and Importing Skins
 
-🔗 [Unity Assets Bundle Extractor (UABE) Installation](#_nwp7jk7nxfax)
+🔗 [Unity Assets Bundle Extractor (UABE) Installation](#download-uabe)
 
 ```
 - Setup
@@ -53,6 +53,8 @@ MODDING
 _(UABE is **OPEN SOURCE**, which means everyone is able to **view the code**, therefore it can be **considered safe** to download and use. We have added the origin GitHub and a republish via google drive uploaded by POOPATRON.)_
 
 **NOTE:** UABE currently only supports Windows.
+
+### Download UABE
 
 Install From GitHub:
 🔗 https://github.com/SeriousCache/UABE/releases/tag/v3.0-beta1 
