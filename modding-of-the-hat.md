@@ -41,7 +41,7 @@ MODDING
 ```
 
 <img align="left" src="https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image004.gif" alt="img" style="zoom:200%;" />
-
+<br>
 ```
 - Fortunately, through the power of third party software, we are able to extract those images.
 
@@ -69,9 +69,9 @@ Install From Google Drive:
 
 
 <img align="left" src="https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image006.gif" alt="img" style="zoom:200%;" />
-
+<br>
 <img align="left" src="https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image008.gif" alt="img" style="zoom:200%;" />
-
+<br>
 
 
 ### Install using Google Drive
