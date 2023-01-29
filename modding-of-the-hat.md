@@ -1,7 +1,7 @@
 # So, you want to mod King of the Hat? Then you’ve come to the right place :D
 
 THE DEFINITIVE GUIDE FOR
-![img](file:///C:/Users/lukas/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)
+![img](https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image002.gif?raw=true)
 
 MODDING 
 
