@@ -1,6 +1,7 @@
 # So, you want to mod King of the Hat? Then you’ve come to the right place :D
 
 THE DEFINITIVE GUIDE FOR
+
 ![img](https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image002.gif?raw=true)
 
 MODDING 
@@ -40,8 +41,10 @@ MODDING
 - King Of The Hat, as with many other Unity Games keeps its assets in a .assets file. This means that you cannot directly access the .png files that it references for these assets. 
 ```
 
-<img align="left" src="https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image004.gif" alt="img" style="zoom:200%;" />
-<br>
+![img](https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image004.gif)
+
+
+
 ```
 - Fortunately, through the power of third party software, we are able to extract those images.
 
@@ -68,10 +71,11 @@ Install From Google Drive:
 ```
 
 
-<img align="left" src="https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image006.gif" alt="img" style="zoom:200%;" />
-<br>
-<img align="left" src="https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image008.gif" alt="img" style="zoom:200%;" />
-<br>
+![img](https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image006.gif)
+
+
+![img](https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image008.gif)
+
 
 
 ### Install using Google Drive
@@ -102,7 +106,7 @@ Alright, so now that you’ve downloaded UABE, it’s time to get modding!
 To start UABE, simply run AssetBundleExtractor.exe from inside its folder. 
 ```
 
-<img align="left" src="https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image012.gif" alt="img" style="zoom:200%;" />
+![img](https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image012.gif)
 
 **Note**: as stated before, running the .exe from outside of it’s local folder will cause problems) [*FAQs and Other Problems*]
 
@@ -110,7 +114,7 @@ To start UABE, simply run AssetBundleExtractor.exe from inside its folder.
 If done successfully, a window should pop up that looks like this:
 ```
 
-<img align="left" src="https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image014.gif" alt="img" style="zoom:200%;" />
+![img](https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image014.gif)
 
 _Created by:_
 **POOPATRON**
