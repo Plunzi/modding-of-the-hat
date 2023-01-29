@@ -119,7 +119,7 @@ If done successfully, a window should pop up that looks like this:
 ![img](https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image014.gif)
 
 _Created by:_
-**POOPATRON**
+**POOPATRON** 
 
 _Edited by:_
 **Plunzi**
