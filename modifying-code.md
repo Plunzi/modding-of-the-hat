@@ -85,3 +85,6 @@ Have fun with your modified game.
 Currently there are no community made mods, as soon as there are any we will list them here.
 If you made one suggest a change for this document here at our GitHub page, thanks❤️.
 
+_Contributed by:_
+**SirObsidian**
+**Plunzi**
