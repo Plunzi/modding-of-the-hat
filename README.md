@@ -11,7 +11,8 @@ MODDING
 
 ### Creating and Importing Skins
 
-🔗 [Unity Assets Bundle Extractor (UABE) Installation](#_nwp7jk7nxfax)
+🔗 [Modifying King of the Hat code](https://github.com/Plunzi/modding-of-the-hat/blob/main/modifying-code.md)
+🔗 [Unity Assets Bundle Extractor (UABE) Installation](#download-uabe)
 
 ```
 - Setup
@@ -54,6 +55,8 @@ _(UABE is **OPEN SOURCE**, which means everyone is able to **view the code**, th
 
 **NOTE:** UABE currently only supports Windows.
 
+### Download UABE
+
 Install From GitHub:
 🔗 https://github.com/SeriousCache/UABE/releases/tag/v3.0-beta1 
 
@@ -73,7 +76,7 @@ Install From Google Drive:
 
 ![img](https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image006.gif)
 
-![img]https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image008.gif)
+![img](https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image008.gif)
 
 
 
