@@ -4,13 +4,16 @@ THE DEFINITIVE GUIDE FOR
 
 ![img](https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/clip_image002.gif?raw=true)
 
-MODDING 
+RESOURCE/TEXTURE MODDING 
 
 ## Sections:
 
-### Creating and Importing Skins
+### 
+🔗 [Creating and Importing Skins](#download-uabe)
 
-🔗 [Unity Assets Bundle Extractor (UABE) Installation](#download-uabe)
+🔗 [Modifying King of the Hat Code](https://github.com/Plunzi/modding-of-the-hat/blob/main/modifying-code.md)
+
+
 
 ```
 - Setup
