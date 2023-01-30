@@ -12,6 +12,7 @@ MODDING
 ### Creating and Importing Skins
 
 🔗 [Modifying King of the Hat code](https://github.com/Plunzi/modding-of-the-hat/blob/main/modifying-code.md)
+
 🔗 [Unity Assets Bundle Extractor (UABE) Installation](#download-uabe)
 
 ```
