@@ -5,16 +5,16 @@ THE DEFINITIVE GUIDE FOR
 
 SCRIPT/FUNCTIONALITY MODDING 
 
-
+(Written originally by Sir Obsidian)
 
 # MODIFYING **GAME SCRIPTS**
 
-The awesome 🔗 **King of the Hat Community** found out how to mod the game from the code side of the game. Instead of replacing assets such as characters & portraits. We can replace and potentially add new code!
+The awesome 🔗 **King of the Hat Community** (Sir Obsidian) found out how to mod the game from the code side of the game. Instead of replacing assets such as characters & portraits. We can replace and add new code!
 
 _**Note**: In this document we will use "KOTH" as short version for "King of the Hat"_
 
 ## How To Guide
-This tutorial will be rather **DIFFICULT** because no Modloader for KOTH has been finished yet. the 🔗[ModTheHat Modloader](https://github.com/ModTheHat/ModTheHat) is in the working though. Once it is done you will be informed here asap! Basically the Modloader will be able to mod the game by creating **C# .DLL files** using Visual Studio or any other C# Editor of your choice. which the Modloader injects into the game.
+This tutorial will be rather **DIFFICULT** the King of the Hat🔗[ModTheHat Modloader](https://github.com/ModTheHat/ModTheHat) is not yet in working condition. The document will be updated whenever the modloader is done. The Modloader will be able to mod the game by creating **C# .DLL files** using Visual Studio or any other C# Editor of your choice. which the Modloader injects into the game.
 
 This tutorial will show you how to modify the game files **DIRECTLY**.
 ### Chapter 1: Dependencies for manual modding
@@ -27,7 +27,7 @@ With dnSpy you can access more like KOTHs source scripts and asset files. Downlo
 Extract it and open **dnSpy**.
 
 ### Chapter 2: OPENING FILES
-In **``dnSpy clic File``** 🠖 **``Open``** _(Alternatively CTRL + O)_
+In **``dnSpy click File``** 🠖 **``Open``** _(Alternatively CTRL + O)_
 
 ![](https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/Aspose.Words.12e64fed-b1a9-4767-b0a5-7e5bf1e1730a.001.png)
 
@@ -35,7 +35,9 @@ And navigate to your installation of King of the Hat. In the game folder, open t
 ![](https://github.com/Plunzi/modding-of-the-hat/blob/main/wiki-images/Aspose.Words.12e64fed-b1a9-4767-b0a5-7e5bf1e1730a.002.png)
 
 Inside dnSpy you can find **ALL** of the classes the game uses.
-### _(OPTIONAL)_ Chapter 3: Removing Hat hunters!
+### _(OPTIONAL)_ Chapter 3: Removing Hat hunters! 
+
+!! This chapter shows how to exactly modify the game code, this doesn't actually remove the Hat Hunters game mode or prioritize Last Hat Standing, because of a weird bug in the code I believe should be fixed on another build of the game.
 
 Expand these folders,
 **``Assembly-CSharp/Assembly-CSharp.dll/``**
